@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 225b7e27a3aef694ba48817391291d5c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: backbone
+    100002: backpawcontrolLeft
+    100004: backpawcontrolRight
+    100006: backpawLeft
+    100008: backpawRight
+    100010: forelegLeft
+    100012: forelegRight
+    100014: frontpawcontrolLeft
+    100016: frontpawcontrolRight
+    100018: //RootNode
+    100020: guineapig1
+    100022: guinearmature
+    100024: headbone
+    100026: hindlegLeft
+    100028: hindlegRight
+    100030: legcontrolbone
+    100032: neckbone
+    100034: neckcontrolbone
+    100036: pawLeft
+    100038: pawRight
+    100040: tailbone
+    400000: backbone
+    400002: backpawcontrolLeft
+    400004: backpawcontrolRight
+    400006: backpawLeft
+    400008: backpawRight
+    400010: forelegLeft
+    400012: forelegRight
+    400014: frontpawcontrolLeft
+    400016: frontpawcontrolRight
+    400018: //RootNode
+    400020: guineapig1
+    400022: guinearmature
+    400024: headbone
+    400026: hindlegLeft
+    400028: hindlegRight
+    400030: legcontrolbone
+    400032: neckbone
+    400034: neckcontrolbone
+    400036: pawLeft
+    400038: pawRight
+    400040: tailbone
+    4300000: guineapig1
+    7400000: Default Take
+    7400002: guineapigidle1
+    7400004: guineapigidle2
+    7400006: guineapigidle3
+    7400008: guineapigidle4
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: guineapig1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: guineapigidle1
+      takeName: guineapigidle1
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: guineapig1
+        weight: 1
+      - path: guinearmature
+        weight: 1
+      - path: guinearmature/legcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone/tailbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft/pawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight/pawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft/backpawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight/backpawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone/headbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: guineapigidle2
+      takeName: guineapigidle2
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: guineapig1
+        weight: 1
+      - path: guinearmature
+        weight: 1
+      - path: guinearmature/legcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone/tailbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft/pawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight/pawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft/backpawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight/backpawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone/headbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: guineapigidle3
+      takeName: guineapigidle3
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: guineapig1
+        weight: 1
+      - path: guinearmature
+        weight: 1
+      - path: guinearmature/legcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone/tailbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft/pawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight/pawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft/backpawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight/backpawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone/headbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: guineapigidle4
+      takeName: guineapigidle4
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: guineapig1
+        weight: 1
+      - path: guinearmature
+        weight: 1
+      - path: guinearmature/legcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/backpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/frontpawcontrolRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/backbone/tailbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegLeft/pawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/forelegRight/pawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegLeft/backpawLeft
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/hindlegRight/backpawRight
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone
+        weight: 1
+      - path: guinearmature/legcontrolbone/neckcontrolbone/neckbone/headbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

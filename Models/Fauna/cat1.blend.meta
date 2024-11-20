@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: a7307e48919d9b045af29778ca0df86a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_0
+    100004: Bone_001
+    100006: Bone_002_L_001
+    100008: Bone_002_L_002
+    100010: Bone_002_R_001
+    100012: Bone_002_R_002
+    100014: Bone_003
+    100016: Bone_003_L_001
+    100018: Bone_003_R_001
+    100020: Bone_004
+    100022: Bone_004_L_001
+    100024: Bone_004_L_002
+    100026: Bone_004_L_003
+    100028: Bone_004_R_001
+    100030: Bone_004_R_002
+    100032: Bone_004_R_003
+    100034: Bone_005
+    100036: Bone_006
+    100038: Bone_007
+    100040: Bone_L_002
+    100042: Bone_L_004
+    100044: Bone_L_005
+    100046: Bone_L_006
+    100048: Bone_L_007
+    100050: Bone_L_008
+    100052: Bone_L_009
+    100054: Bone_L_011
+    100056: Bone_L_012
+    100058: Bone_L_013
+    100060: Bone_L_014
+    100062: Bone_L_015
+    100064: Bone_L_016
+    100066: Bone_L_017
+    100068: Bone_L_018
+    100070: Bone_L_019
+    100072: Bone_R_002
+    100074: Bone_R_004
+    100076: Bone_R_005
+    100078: Bone_R_006
+    100080: Bone_R_007
+    100082: Bone_R_008
+    100084: Bone_R_009
+    100086: Bone_R_011
+    100088: Bone_R_012
+    100090: Bone_R_013
+    100092: Bone_R_014
+    100094: Bone_R_015
+    100096: Bone_R_016
+    100098: Bone_R_017
+    100100: Bone_R_018
+    100102: Bone_R_019
+    100104: //RootNode
+    100106: crabarmatyuur
+    100108: Murr
+    100110: Murrmature
+    100112: catass
+    100114: catback
+    100116: catcontrolbone
+    100118: catearLeft
+    100120: catearRight
+    100122: catforeleglowerLeft
+    100124: catforeleglowerRight
+    100126: catforelegupperLeft
+    100128: catfupperforelegRight
+    100130: cathead
+    100132: catpawbackLeft
+    100134: catpawbackRight
+    100136: catpawfrontLeft
+    100138: catpawfrontRight
+    100140: catshinLeft
+    100142: catshinRight
+    100144: cattailbase
+    100146: cattailmid
+    100148: cattailtip
+    100150: cattarsalLeft
+    100152: cattarsalRight
+    100154: catthighLeft
+    100156: catthighRight
+    100158: legcontrolbone
+    400000: Bone
+    400002: Bone_0
+    400004: Bone_001
+    400006: Bone_002_L_001
+    400008: Bone_002_L_002
+    400010: Bone_002_R_001
+    400012: Bone_002_R_002
+    400014: Bone_003
+    400016: Bone_003_L_001
+    400018: Bone_003_R_001
+    400020: Bone_004
+    400022: Bone_004_L_001
+    400024: Bone_004_L_002
+    400026: Bone_004_L_003
+    400028: Bone_004_R_001
+    400030: Bone_004_R_002
+    400032: Bone_004_R_003
+    400034: Bone_005
+    400036: Bone_006
+    400038: Bone_007
+    400040: Bone_L_002
+    400042: Bone_L_004
+    400044: Bone_L_005
+    400046: Bone_L_006
+    400048: Bone_L_007
+    400050: Bone_L_008
+    400052: Bone_L_009
+    400054: Bone_L_011
+    400056: Bone_L_012
+    400058: Bone_L_013
+    400060: Bone_L_014
+    400062: Bone_L_015
+    400064: Bone_L_016
+    400066: Bone_L_017
+    400068: Bone_L_018
+    400070: Bone_L_019
+    400072: Bone_R_002
+    400074: Bone_R_004
+    400076: Bone_R_005
+    400078: Bone_R_006
+    400080: Bone_R_007
+    400082: Bone_R_008
+    400084: Bone_R_009
+    400086: Bone_R_011
+    400088: Bone_R_012
+    400090: Bone_R_013
+    400092: Bone_R_014
+    400094: Bone_R_015
+    400096: Bone_R_016
+    400098: Bone_R_017
+    400100: Bone_R_018
+    400102: Bone_R_019
+    400104: //RootNode
+    400106: crabarmatyuur
+    400108: Murr
+    400110: Murrmature
+    400112: catass
+    400114: catback
+    400116: catcontrolbone
+    400118: catearLeft
+    400120: catearRight
+    400122: catforeleglowerLeft
+    400124: catforeleglowerRight
+    400126: catforelegupperLeft
+    400128: catfupperforelegRight
+    400130: cathead
+    400132: catpawbackLeft
+    400134: catpawbackRight
+    400136: catpawfrontLeft
+    400138: catpawfrontRight
+    400140: catshinLeft
+    400142: catshinRight
+    400144: cattailbase
+    400146: cattailmid
+    400148: cattailtip
+    400150: cattarsalLeft
+    400152: cattarsalRight
+    400154: catthighLeft
+    400156: catthighRight
+    400158: legcontrolbone
+    4300000: Murr
+    7400000: Default Take
+    7400002: PoseLib
+    7400004: catidle1
+    7400006: catidle2
+    7400008: catidle3
+    7400010: catidle4
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Murr
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: catidle1
+      takeName: catidle1
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Murr
+        weight: 1
+      - path: Murrmature
+        weight: 1
+      - path: Murrmature/legcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid/cattailtip
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft/cattarsalLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight/cattarsalRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft/catforeleglowerLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight/catforeleglowerRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: catidle2
+      takeName: catidle2
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Murr
+        weight: 1
+      - path: Murrmature
+        weight: 1
+      - path: Murrmature/legcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid/cattailtip
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft/cattarsalLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight/cattarsalRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft/catforeleglowerLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight/catforeleglowerRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: catidle3
+      takeName: catidle3
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Murr
+        weight: 1
+      - path: Murrmature
+        weight: 1
+      - path: Murrmature/legcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid/cattailtip
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft/cattarsalLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight/cattarsalRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft/catforeleglowerLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight/catforeleglowerRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: catidle4
+      takeName: catidle4
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Murr
+        weight: 1
+      - path: Murrmature
+        weight: 1
+      - path: Murrmature/legcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/cattailbase/cattailmid/cattailtip
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighLeft/catshinLeft/cattarsalLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catass/catthighRight/catshinRight/cattarsalRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catforelegupperLeft/catforeleglowerLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/catfupperforelegRight/catforeleglowerRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catcontrolbone/catback/cathead/catearRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawbackRight
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontLeft
+        weight: 1
+      - path: Murrmature/legcontrolbone/catpawfrontRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

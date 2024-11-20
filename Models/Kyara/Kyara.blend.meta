@@ -1,0 +1,3403 @@
+fileFormatVersion: 2
+guid: 4b65598b7362d894a9f17c20481c0476
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: fingerbaseLeft
+    100002: fingerbaseRight
+    100004: fingerIKLeft
+    100006: fingerIKRight
+    100008: fingernullLeft
+    100010: fingernullRight
+    100012: fingertipsLeft
+    100014: fingertipsRight
+    100016: footLeft
+    100018: footRight
+    100020: footrollLeft
+    100022: footrollRight
+    100024: foottumblecontrolLeft
+    100026: foottumblecontrolRight
+    100028: foottumbleinsideLeft
+    100030: foottumbleinsideRight
+    100032: foottumbleoutsideLeft
+    100034: foottumbleoutsideRight
+    100036: head
+    100038: heelLeft
+    100040: heelRight
+    100042: hips
+    100044: IKarmLeft
+    100046: IKarmRight
+    100048: kneecontrolLeft
+    100050: kneecontrolRight
+    100052: //RootNode
+    100054: Kyaraeyewear
+    100056: Kyaraponytail
+    100058: Kyarmature
+    100060: legtargetLeft
+    100062: legtargetRight
+    100064: lowerarmLeft
+    100066: lowerarmRight
+    100068: lowerback
+    100070: lowerearhairIKLeft
+    100072: lowerearhairIKRight
+    100074: lowerearhairLeft
+    100076: lowerearhairnullLeft
+    100078: lowerearhairnullRight
+    100080: lowerearhairRight
+    100082: lowerribcage
+    100084: lowpolykyara
+    100086: neck
+    100088: neckcontrolbone
+    100090: palmLeft
+    100092: palmRight
+    100094: ponytailbase
+    100096: ponytailIK
+    100098: ponytailmid
+    100100: ponytailtip
+    100102: ponytailtipnull
+    100104: ponytailtop
+    100106: rotatetoesLeft
+    100108: rotatetoesRight
+    100110: shinLeft
+    100112: shinRight
+    100114: shoulderLeft
+    100116: shoulderRight
+    100118: tarsalLeft
+    100120: tarsalRight
+    100122: tarsaltargetLeft
+    100124: tarsaltargetRight
+    100126: thighLeft
+    100128: thighRight
+    100130: thumbbaseLeft
+    100132: thumbbaseRight
+    100134: thumbIKLeft
+    100136: thumbIKRight
+    100138: thumbLeft
+    100140: thumbnullLeft
+    100142: thumbnullRight
+    100144: thumbRight
+    100146: tiptoeLeft
+    100148: tiptoeRight
+    100150: toesLeft
+    100152: toesRight
+    100154: toestargetLeft
+    100156: toestargetRight
+    100158: upperarmLeft
+    100160: upperarmRight
+    100162: upperearhairLeft
+    100164: upperearhairRight
+    100166: upperribcage
+    100168: Empty
+    100170: kyaraponytail
+    100172: gauLeft
+    100174: gauRight
+    100176: gunfleymRight
+    100178: Kyaraeyeprotection
+    100180: Kyaragau8Left
+    100182: Kyaragau8Right
+    400000: fingerbaseLeft
+    400002: fingerbaseRight
+    400004: fingerIKLeft
+    400006: fingerIKRight
+    400008: fingernullLeft
+    400010: fingernullRight
+    400012: fingertipsLeft
+    400014: fingertipsRight
+    400016: footLeft
+    400018: footRight
+    400020: footrollLeft
+    400022: footrollRight
+    400024: foottumblecontrolLeft
+    400026: foottumblecontrolRight
+    400028: foottumbleinsideLeft
+    400030: foottumbleinsideRight
+    400032: foottumbleoutsideLeft
+    400034: foottumbleoutsideRight
+    400036: head
+    400038: heelLeft
+    400040: heelRight
+    400042: hips
+    400044: IKarmLeft
+    400046: IKarmRight
+    400048: kneecontrolLeft
+    400050: kneecontrolRight
+    400052: //RootNode
+    400054: Kyaraeyewear
+    400056: Kyaraponytail
+    400058: Kyarmature
+    400060: legtargetLeft
+    400062: legtargetRight
+    400064: lowerarmLeft
+    400066: lowerarmRight
+    400068: lowerback
+    400070: lowerearhairIKLeft
+    400072: lowerearhairIKRight
+    400074: lowerearhairLeft
+    400076: lowerearhairnullLeft
+    400078: lowerearhairnullRight
+    400080: lowerearhairRight
+    400082: lowerribcage
+    400084: lowpolykyara
+    400086: neck
+    400088: neckcontrolbone
+    400090: palmLeft
+    400092: palmRight
+    400094: ponytailbase
+    400096: ponytailIK
+    400098: ponytailmid
+    400100: ponytailtip
+    400102: ponytailtipnull
+    400104: ponytailtop
+    400106: rotatetoesLeft
+    400108: rotatetoesRight
+    400110: shinLeft
+    400112: shinRight
+    400114: shoulderLeft
+    400116: shoulderRight
+    400118: tarsalLeft
+    400120: tarsalRight
+    400122: tarsaltargetLeft
+    400124: tarsaltargetRight
+    400126: thighLeft
+    400128: thighRight
+    400130: thumbbaseLeft
+    400132: thumbbaseRight
+    400134: thumbIKLeft
+    400136: thumbIKRight
+    400138: thumbLeft
+    400140: thumbnullLeft
+    400142: thumbnullRight
+    400144: thumbRight
+    400146: tiptoeLeft
+    400148: tiptoeRight
+    400150: toesLeft
+    400152: toesRight
+    400154: toestargetLeft
+    400156: toestargetRight
+    400158: upperarmLeft
+    400160: upperarmRight
+    400162: upperearhairLeft
+    400164: upperearhairRight
+    400166: upperribcage
+    400168: Empty
+    400170: kyaraponytail
+    400172: gauLeft
+    400174: gauRight
+    400176: gunfleymRight
+    400178: Kyaraeyeprotection
+    400180: Kyaragau8Left
+    400182: Kyaragau8Right
+    4300000: Kyaraeyewear
+    4300002: Kyaraponytail
+    4300004: lowpolykyara
+    4300006: kyaraponytail
+    4300008: gunfleymRight
+    4300010: Kyaragau8Left
+    4300012: Kyaragau8Right
+    4300014: Kyaraeyeprotection
+    7400000: Kyaraidle
+    7400002: foot_roll
+    7400004: footroll
+    7400006: Kyaraidle
+    7400008: Kyaraidlelook
+    7400010: Kyaraidletwerk
+    7400012: Kyararunning
+    7400014: Kyarawalkan
+    7400016: tumblerLeft
+    7400018: tumblerRight
+    7400020: Kyaraidletotwerk
+    7400022: Kyararuntoquick180turn
+    7400024: Kyararun
+    7400026: Kyararuntostop
+    7400028: Kyarawalk
+    7400030: Kyarawalktostop
+    7400032: Kyarainteract
+    7400034: Kyarapickup
+    7400036: Kyaraidle0
+    7400038: Kyaraidlelook
+    7400040: Kyaraquickturning
+    7400042: Kyararuntostop
+    7400044: Kyarawalktostop
+    7400046: Kyarainteract
+    7400048: Kyarapickup
+    7400050: Kyarastandonhandsidle1
+    7400052: Kyarastandonhandsinteract
+    7400054: Kyarawalkonhands
+    7400056: Kyarafloating
+    7400058: Kyaracatchbreath
+    7400060: Kyaraidleguns1
+    7400062: Kyaraidleguns2
+    7400064: Kyarawalkguns
+    7400066: Kyararunnangunnan
+    7400068: Kyaragunnandie
+    7400070: Kyaraidlegunshoot
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Kyaraeyewear
+    13700002: Kyaraponytail
+    13700004: lowpolykyara
+    13700006: kyaraponytail
+    13700008: gunfleymRight
+    13700010: Kyaraeyeprotection
+    13700012: Kyaragau8Left
+    13700014: Kyaragau8Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Kyaraidle
+      takeName: Kyaraidle
+      firstFrame: -1
+      lastFrame: 139
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaraidlelook
+      takeName: Kyaraidlelook
+      firstFrame: -1
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaraidletwerk
+      takeName: Kyaraidletwerk
+      firstFrame: -1
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaraquickturning
+      takeName: Kyaraquickturning
+      firstFrame: -1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .27638191
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .366834164
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyararunning
+      takeName: Kyararunning
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .0527638197
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .557788968
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyararuntostop
+      takeName: Kyararuntostop
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .168341711
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .384422094
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .831658304
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarawalkan
+      takeName: Kyarawalkan
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .0778894499
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .57035172
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarawalktostop
+      takeName: Kyarawalktostop
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .0904522613
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .379396975
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .82914573
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarastandonhandsidle1
+      takeName: Kyarastandonhandsidle1
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarastandonhandsinteract
+      takeName: Kyarastandonhandsinteract
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarawalkonhands
+      takeName: Kyarawalkonhands
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .00502512511
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .512562811
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .0802721083
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .580272138
+        functionName: OnFootstep
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 91de038d45ca049c38a7610155833295,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarainteract
+      takeName: Kyarainteract
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarapickup
+      takeName: Kyarapickup
+      firstFrame: -1
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarafloating
+      takeName: Kyarafloating
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaracatchbreath
+      takeName: Kyaracatchbreath
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaraidleguns1
+      takeName: Kyaraidleguns1
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaraidleguns2
+      takeName: Kyaraidleguns2
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyarawalkguns
+      takeName: Kyarawalkguns
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyararunnangunnan
+      takeName: Kyararunnangunnan
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaragunnandie
+      takeName: Kyaragunnandie
+      firstFrame: -1
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kyaraidlegunshoot
+      takeName: Kyaraidlegunshoot
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gunfleymRight
+        weight: 1
+      - path: Kyaraeyeprotection
+        weight: 1
+      - path: Kyaraeyewear
+        weight: 1
+      - path: Kyaragau8Left
+        weight: 1
+      - path: Kyaragau8Right
+        weight: 1
+      - path: kyaraponytail
+        weight: 1
+      - path: Kyarmature
+        weight: 1
+      - path: Kyarmature/footLeft
+        weight: 1
+      - path: Kyarmature/footLeft/footrollLeft
+        weight: 1
+      - path: Kyarmature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: Kyarmature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: Kyarmature/footRight
+        weight: 1
+      - path: Kyarmature/footRight/footrollRight
+        weight: 1
+      - path: Kyarmature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/kneecontrolRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: Kyarmature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: Kyarmature/IKarmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/gauLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: Kyarmature/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: Kyarmature/IKarmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/gauRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: Kyarmature/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: Kyarmature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      - path: lowpolykyara
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: aa40ae7185faa7b44ae4e5a189cd8dd5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Base
+    100002: Basetop
+    100004: Entry
+    100006: exhaustend
+    100008: exhaustlowpipe
+    100010: exhaustraisedjunction
+    100012: exhaustrise
+    100014: exhauststart
+    100016: interface
+    100018: interfacebarbottom
+    100020: interfacebarmiddle
+    100022: interfacebartop
+    100024: Juicer
+    100026: //RootNode
+    100028: Juicermature
+    100030: Shunnel
+    100032: placeholder
+    400000: Base
+    400002: Basetop
+    400004: Entry
+    400006: exhaustend
+    400008: exhaustlowpipe
+    400010: exhaustraisedjunction
+    400012: exhaustrise
+    400014: exhauststart
+    400016: interface
+    400018: interfacebarbottom
+    400020: interfacebarmiddle
+    400022: interfacebartop
+    400024: Juicer
+    400026: //RootNode
+    400028: Juicermature
+    400030: Shunnel
+    400032: placeholder
+    4300000: Juicer
+    7400000: Default Take
+    7400002: Consume
+    7400004: Denied
+    7400006: Dryrun
+    7400008: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Juicer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Consume
+      takeName: Consume
+      firstFrame: 379
+      lastFrame: 439
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Juicer
+        weight: 1
+      - path: Juicermature
+        weight: 1
+      - path: Juicermature/Base
+        weight: 1
+      - path: Juicermature/Base/Basetop
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel/Entry
+        weight: 1
+      - path: Juicermature/Base/exhauststart
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise/exhaustend
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop/interface
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Denied
+      takeName: Denied
+      firstFrame: 259
+      lastFrame: 379
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Juicer
+        weight: 1
+      - path: Juicermature
+        weight: 1
+      - path: Juicermature/Base
+        weight: 1
+      - path: Juicermature/Base/Basetop
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel/Entry
+        weight: 1
+      - path: Juicermature/Base/exhauststart
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise/exhaustend
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop/interface
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dryrun
+      takeName: Dryrun
+      firstFrame: 19
+      lastFrame: 259
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Juicer
+        weight: 1
+      - path: Juicermature
+        weight: 1
+      - path: Juicermature/Base
+        weight: 1
+      - path: Juicermature/Base/Basetop
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel/Entry
+        weight: 1
+      - path: Juicermature/Base/exhauststart
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise/exhaustend
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop/interface
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Juicer
+        weight: 1
+      - path: Juicermature
+        weight: 1
+      - path: Juicermature/Base
+        weight: 1
+      - path: Juicermature/Base/Basetop
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel
+        weight: 1
+      - path: Juicermature/Base/Basetop/Shunnel/Entry
+        weight: 1
+      - path: Juicermature/Base/exhauststart
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise
+        weight: 1
+      - path: Juicermature/Base/exhauststart/exhaustlowpipe/exhaustraisedjunction/exhaustrise/exhaustend
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop
+        weight: 1
+      - path: Juicermature/Base/interfacebarbottom/interfacebarmiddle/interfacebartop/interface
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 35
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

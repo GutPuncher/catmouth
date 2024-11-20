@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 495ff2eb7998bc747bb2a4ddf4ae9637
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: helperbotte
+    100004: lowpolykyara
+    100006: basebone
+    100008: chestbone
+    100010: headbone
+    100012: helpermature
+    100014: leftelbowbone
+    100016: lefthandlowerbone
+    100018: lefthandupperbone
+    100020: leftshoulderbone
+    100022: leftshoulderpivotbone
+    100024: lowerbackbone
+    100026: midbackbone
+    100028: neckbone
+    100030: neckcontrolbone
+    100032: rightarmbone
+    100034: signbone
+    100036: upperbackbone
+    400000: //RootNode
+    400002: helperbotte
+    400004: lowpolykyara
+    400006: basebone
+    400008: chestbone
+    400010: headbone
+    400012: helpermature
+    400014: leftelbowbone
+    400016: lefthandlowerbone
+    400018: lefthandupperbone
+    400020: leftshoulderbone
+    400022: leftshoulderpivotbone
+    400024: lowerbackbone
+    400026: midbackbone
+    400028: neckbone
+    400030: neckcontrolbone
+    400032: rightarmbone
+    400034: signbone
+    400036: upperbackbone
+    2300000: helperbotte
+    2300002: lowpolykyara
+    3300000: helperbotte
+    3300002: lowpolykyara
+    4300000: helperbotte
+    4300002: lowpolykyara
+    7400000: Default Take
+    7400002: helperidle1
+    7400004: helperidle2
+    7400006: helperidle3
+    7400008: helperidle4
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: helperbotte
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: helperidle1
+      takeName: helperidle1
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: helperbotte
+        weight: 1
+      - path: helpermature
+        weight: 1
+      - path: helpermature/basebone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandlowerbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandupperbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone/headbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone/signbone
+        weight: 1
+      - path: helpermature/neckcontrolbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: helperidle2
+      takeName: helperidle2
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: helperbotte
+        weight: 1
+      - path: helpermature
+        weight: 1
+      - path: helpermature/basebone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandlowerbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandupperbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone/headbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone/signbone
+        weight: 1
+      - path: helpermature/neckcontrolbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: helperidle3
+      takeName: helperidle3
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: helperbotte
+        weight: 1
+      - path: helpermature
+        weight: 1
+      - path: helpermature/basebone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandlowerbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandupperbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone/headbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone/signbone
+        weight: 1
+      - path: helpermature/neckcontrolbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: helperidle4
+      takeName: helperidle4
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: helperbotte
+        weight: 1
+      - path: helpermature
+        weight: 1
+      - path: helpermature/basebone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandlowerbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/leftshoulderbone/leftshoulderpivotbone/leftelbowbone/lefthandupperbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/neckbone/headbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone
+        weight: 1
+      - path: helpermature/basebone/lowerbackbone/midbackbone/upperbackbone/chestbone/rightarmbone/signbone
+        weight: 1
+      - path: helpermature/neckcontrolbone
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

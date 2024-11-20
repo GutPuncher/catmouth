@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: d93ff7dea52e3f04199f3eaba5ab0d22
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cadaver
+    100004: head
+    100006: hips
+    100008: lowerback
+    100010: lowerribcage
+    100012: neckcontrolbone
+    100014: shoulderLeft
+    100016: shoulderRight
+    100018: simplerrig
+    100020: thighLeft
+    100022: thighRight
+    100024: upperarmLeft
+    100026: upperarmRight
+    400000: //RootNode
+    400002: cadaver
+    400004: head
+    400006: hips
+    400008: lowerback
+    400010: lowerribcage
+    400012: neckcontrolbone
+    400014: shoulderLeft
+    400016: shoulderRight
+    400018: simplerrig
+    400020: thighLeft
+    400022: thighRight
+    400024: upperarmLeft
+    400026: upperarmRight
+    4300000: cadaver
+    7400000: Default Take
+    7400002: cadaverhanging
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cadaver
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cadaverhanging
+      takeName: cadaverhanging
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cadaver
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

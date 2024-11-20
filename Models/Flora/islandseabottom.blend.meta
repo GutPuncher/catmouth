@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 595d54e9e52b1a54aaeb9f1eacea900b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: catfaceleanisland
+    100002: havseavann
+    100004: //RootNode
+    100006: seabund
+    100008: catfaceleanmountains
+    100010: havseavannbool
+    100012: seashore
+    100014: BezierCurve
+    100016: catfaceleanislandretextyuur
+    100018: catfaceislandsretextyuur
+    100020: shorewaves
+    100022: catfaceislandsand
+    100024: catfaceislandsgrass
+    100026: catfaceislandsgravel
+    100028: Cone
+    100030: mountainwaves
+    100032: catfaceislandsgrasstoo
+    400000: catfaceleanisland
+    400002: havseavann
+    400004: //RootNode
+    400006: seabund
+    400008: catfaceleanmountains
+    400010: havseavannbool
+    400012: seashore
+    400014: BezierCurve
+    400016: catfaceleanislandretextyuur
+    400018: catfaceislandsretextyuur
+    400020: shorewaves
+    400022: catfaceislandsand
+    400024: catfaceislandsgrass
+    400026: catfaceislandsgravel
+    400028: Cone
+    400030: mountainwaves
+    400032: catfaceislandsgrasstoo
+    2300000: catfaceleanisland
+    2300002: havseavann
+    2300004: seabund
+    2300006: catfaceleanmountains
+    2300008: havseavannbool
+    2300010: seashore
+    2300012: BezierCurve
+    2300014: catfaceleanislandretextyuur
+    2300016: catfaceislandsretextyuur
+    2300018: shorewaves
+    2300020: catfaceislandsand
+    2300022: catfaceislandsgrass
+    2300024: catfaceislandsgravel
+    2300026: Cone
+    2300028: mountainwaves
+    2300030: catfaceislandsgrasstoo
+    3300000: catfaceleanisland
+    3300002: havseavann
+    3300004: seabund
+    3300006: catfaceleanmountains
+    3300008: havseavannbool
+    3300010: seashore
+    3300012: BezierCurve
+    3300014: catfaceleanislandretextyuur
+    3300016: catfaceislandsretextyuur
+    3300018: shorewaves
+    3300020: catfaceislandsand
+    3300022: catfaceislandsgrass
+    3300024: catfaceislandsgravel
+    3300026: Cone
+    3300028: mountainwaves
+    3300030: catfaceislandsgrasstoo
+    4300000: havseavann
+    4300002: seabund
+    4300004: catfaceleanisland
+    4300006: catfaceleanmountains
+    4300008: havseavannbool
+    4300010: seashore
+    4300012: BezierCurve
+    4300014: catfaceleanislandretextyuur
+    4300016: shorewaves
+    4300018: catfaceislandsretextyuur
+    4300020: catfaceislandsgravel
+    4300022: catfaceislandsand
+    4300024: catfaceislandsgrass
+    4300026: Cone
+    4300028: mountainwaves
+    4300030: catfaceislandsgrasstoo
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 3556405cc2f96d047af0bc9039879638
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: head
+    100002: hips
+    100004: lowerarmLeft
+    100006: lowerarmRight
+    100008: lowerback
+    100010: lowerribcage
+    100012: lowpolykyara
+    100014: //RootNode
+    100016: malenpc15
+    100018: neckcontrolbone
+    100020: palmLeft
+    100022: palmRight
+    100024: shinLeft
+    100026: shinRight
+    100028: shoulderLeft
+    100030: shoulderRight
+    100032: simplerrig
+    100034: thighLeft
+    100036: thighRight
+    100038: toeLeft
+    100040: toeRight
+    100042: upperarmLeft
+    100044: upperarmRight
+    400000: head
+    400002: hips
+    400004: lowerarmLeft
+    400006: lowerarmRight
+    400008: lowerback
+    400010: lowerribcage
+    400012: lowpolykyara
+    400014: //RootNode
+    400016: malenpc15
+    400018: neckcontrolbone
+    400020: palmLeft
+    400022: palmRight
+    400024: shinLeft
+    400026: shinRight
+    400028: shoulderLeft
+    400030: shoulderRight
+    400032: simplerrig
+    400034: thighLeft
+    400036: thighRight
+    400038: toeLeft
+    400040: toeRight
+    400042: upperarmLeft
+    400044: upperarmRight
+    2300000: lowpolykyara
+    3300000: lowpolykyara
+    4300000: malenpc15
+    4300002: lowpolykyara
+    7400000: Default Take
+    7400002: malenpc15idle1
+    7400004: malenpc15idle2
+    7400006: malenpc15idle3
+    7400008: malenpc15idle4
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: malenpc15
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: malenpc15idle1
+      takeName: malenpc15idle1
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: malenpc15
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: malenpc15idle2
+      takeName: malenpc15idle2
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: malenpc15
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: malenpc15idle3
+      takeName: malenpc15idle3
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: malenpc15
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: malenpc15idle4
+      takeName: malenpc15idle4
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: malenpc15
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

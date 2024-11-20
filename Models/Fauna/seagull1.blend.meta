@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: d8267c3bf670c084791d0194e172cd6e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_0
+    100004: Bone_002
+    100006: Bone_003
+    100008: Bone_004
+    100010: Bone_005
+    100012: Bone_L_001
+    100014: Bone_L_002
+    100016: Bone_L_003
+    100018: Bone_L_004
+    100020: Bone_L_005
+    100022: Bone_L_006
+    100024: Bone_L_007
+    100026: Bone_L_008
+    100028: Bone_L_009
+    100030: Bone_L_011
+    100032: Bone_L_012
+    100034: Bone_L_013
+    100036: Bone_L_014
+    100038: Bone_L_015
+    100040: Bone_L_016
+    100042: Bone_L_017
+    100044: Bone_L_018
+    100046: Bone_L_019
+    100048: Bone_L_3
+    100050: Bone_L_6
+    100052: Bone_L_7
+    100054: Bone_L_8
+    100056: Bone_R_001
+    100058: Bone_R_002
+    100060: Bone_R_003
+    100062: Bone_R_004
+    100064: Bone_R_005
+    100066: Bone_R_006
+    100068: Bone_R_007
+    100070: Bone_R_008
+    100072: Bone_R_009
+    100074: Bone_R_011
+    100076: Bone_R_012
+    100078: Bone_R_013
+    100080: Bone_R_014
+    100082: Bone_R_015
+    100084: Bone_R_016
+    100086: Bone_R_017
+    100088: Bone_R_018
+    100090: Bone_R_019
+    100092: Bone_R_3
+    100094: Bone_R_6
+    100096: Bone_R_7
+    100098: Bone_R_8
+    100100: crabarmatyuur
+    100102: Seagull
+    100104: //RootNode
+    100106: Seagullarmature
+    100108: seagull1
+    100110: seagullcontrolbone
+    100112: seagullfootLeft
+    100114: seagullfottRight
+    100116: seagullhead
+    100118: seagulllowerbeak
+    100120: seagullmature
+    100122: seagullshinLeft
+    100124: seagullshinRight
+    100126: seagulltail
+    100128: seagullthighLeft
+    100130: seagullthighRight
+    100132: seagullupperbeak
+    100134: seagullwingbaseLeft
+    100136: seagullwingbaseRight
+    100138: seagullwingLeft
+    100140: seagullwingRight
+    100142: seagullwingtipLeft
+    100144: seagullwingtipRight
+    100146: seagullcontrolbone_001
+    100148: seagullneck
+    100150: seagullclawLeft
+    100152: seagullclawRight
+    100154: seagullcontrolbonelegs
+    100156: shoulderboneLeft
+    100158: shoulderboneRight
+    400000: Bone
+    400002: Bone_0
+    400004: Bone_002
+    400006: Bone_003
+    400008: Bone_004
+    400010: Bone_005
+    400012: Bone_L_001
+    400014: Bone_L_002
+    400016: Bone_L_003
+    400018: Bone_L_004
+    400020: Bone_L_005
+    400022: Bone_L_006
+    400024: Bone_L_007
+    400026: Bone_L_008
+    400028: Bone_L_009
+    400030: Bone_L_011
+    400032: Bone_L_012
+    400034: Bone_L_013
+    400036: Bone_L_014
+    400038: Bone_L_015
+    400040: Bone_L_016
+    400042: Bone_L_017
+    400044: Bone_L_018
+    400046: Bone_L_019
+    400048: Bone_L_3
+    400050: Bone_L_6
+    400052: Bone_L_7
+    400054: Bone_L_8
+    400056: Bone_R_001
+    400058: Bone_R_002
+    400060: Bone_R_003
+    400062: Bone_R_004
+    400064: Bone_R_005
+    400066: Bone_R_006
+    400068: Bone_R_007
+    400070: Bone_R_008
+    400072: Bone_R_009
+    400074: Bone_R_011
+    400076: Bone_R_012
+    400078: Bone_R_013
+    400080: Bone_R_014
+    400082: Bone_R_015
+    400084: Bone_R_016
+    400086: Bone_R_017
+    400088: Bone_R_018
+    400090: Bone_R_019
+    400092: Bone_R_3
+    400094: Bone_R_6
+    400096: Bone_R_7
+    400098: Bone_R_8
+    400100: crabarmatyuur
+    400102: Seagull
+    400104: //RootNode
+    400106: Seagullarmature
+    400108: seagull1
+    400110: seagullcontrolbone
+    400112: seagullfootLeft
+    400114: seagullfottRight
+    400116: seagullhead
+    400118: seagulllowerbeak
+    400120: seagullmature
+    400122: seagullshinLeft
+    400124: seagullshinRight
+    400126: seagulltail
+    400128: seagullthighLeft
+    400130: seagullthighRight
+    400132: seagullupperbeak
+    400134: seagullwingbaseLeft
+    400136: seagullwingbaseRight
+    400138: seagullwingLeft
+    400140: seagullwingRight
+    400142: seagullwingtipLeft
+    400144: seagullwingtipRight
+    400146: seagullcontrolbone_001
+    400148: seagullneck
+    400150: seagullclawLeft
+    400152: seagullclawRight
+    400154: seagullcontrolbonelegs
+    400156: shoulderboneLeft
+    400158: shoulderboneRight
+    4300000: Seagull
+    4300002: seagull1
+    7400000: Default Take
+    7400002: gullidle1
+    7400004: gullidle2
+    7400006: gullidle3
+    7400008: gulleatingidle4
+    7400010: gullidle5
+    7400012: gullidle6
+    7400014: gullidlesittingidle1
+    7400016: gullidlesittingidle2
+    7400018: gullidlesittingidle3
+    7400020: gullflyingidle1
+    7400022: gullflyingidle4
+    7400024: gullflyingidle2
+    7400026: gullidlesittingidle4
+    7400028: gullstandinglanding
+    7400030: gullstandingtakeoff
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Seagull
+    13700002: seagull1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gullflyingidle1
+      takeName: gullflying1
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullflyingidle4
+      takeName: gullflying2
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullflyingidle2
+      takeName: gullflying3
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidle1
+      takeName: gullidle1
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidle2
+      takeName: gullidle2
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidle3
+      takeName: gullidle3
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gulleatingidle4
+      takeName: gullidle4
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidle5
+      takeName: gullidle5
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidle6
+      takeName: gullidle6
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidlesittingidle1
+      takeName: gullidlesitting1
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidlesittingidle2
+      takeName: gullidlesitting2
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidlesittingidle3
+      takeName: gullidlesitting3
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullidlesittingidle4
+      takeName: gullidlesitting4
+      firstFrame: -1
+      lastFrame: 119
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullstandinglanding
+      takeName: gullstandinglanding
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gullstandingtakeoff
+      takeName: gullstandingtakeoff
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: seagull1
+        weight: 1
+      - path: seagullmature
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullclawRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagulllowerbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullneck/seagullhead/seagullupperbeak
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagulltail
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighLeft/seagullshinLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/seagullthighRight/seagullshinRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneLeft/seagullwingbaseLeft/seagullwingLeft
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight
+        weight: 1
+      - path: seagullmature/seagullcontrolbonelegs/seagullcontrolbone/shoulderboneRight/seagullwingbaseRight/seagullwingRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

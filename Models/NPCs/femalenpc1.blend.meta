@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: c0cd9e5bb8227bf4eb58fd53b58393ad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: femalenpc1armature
+    100006: fingerbaseLeft
+    100008: fingerbaseRight
+    100010: fingerIKLeft
+    100012: fingerIKRight
+    100014: fingernullLeft
+    100016: fingernullRight
+    100018: fingertipsLeft
+    100020: fingertipsRight
+    100022: footLeft
+    100024: footRight
+    100026: footrollLeft
+    100028: footrollRight
+    100030: foottumblecontrolLeft
+    100032: foottumblecontrolRight
+    100034: foottumbleinsideLeft
+    100036: foottumbleinsideRight
+    100038: foottumbleoutsideLeft
+    100040: foottumbleoutsideRight
+    100042: head
+    100044: heelLeft
+    100046: heelRight
+    100048: hips
+    100050: IKarmLeft
+    100052: IKarmRight
+    100054: kneecontrolLeft
+    100056: kneecontrolRight
+    100058: legtargetLeft
+    100060: legtargetRight
+    100062: lowerarmLeft
+    100064: lowerarmRight
+    100066: lowerback
+    100068: lowerribcage
+    100070: neck
+    100072: neckcontrolbone
+    100074: palmLeft
+    100076: palmRight
+    100078: rotatetoesLeft
+    100080: rotatetoesRight
+    100082: shinLeft
+    100084: shinRight
+    100086: shoulderLeft
+    100088: shoulderRight
+    100090: tarsalLeft
+    100092: tarsalRight
+    100094: tarsaltargetLeft
+    100096: tarsaltargetRight
+    100098: thighLeft
+    100100: thighRight
+    100102: thumbbaseLeft
+    100104: thumbbaseRight
+    100106: thumbIKLeft
+    100108: thumbIKRight
+    100110: thumbLeft
+    100112: thumbnullLeft
+    100114: thumbnullRight
+    100116: thumbRight
+    100118: tiptoeLeft
+    100120: tiptoeRight
+    100122: toesLeft
+    100124: toesRight
+    100126: toestargetLeft
+    100128: toestargetRight
+    100130: upperarmLeft
+    100132: upperarmRight
+    100134: upperribcage
+    100136: femalenpc1
+    400000: //RootNode
+    400002: Cube
+    400004: femalenpc1armature
+    400006: fingerbaseLeft
+    400008: fingerbaseRight
+    400010: fingerIKLeft
+    400012: fingerIKRight
+    400014: fingernullLeft
+    400016: fingernullRight
+    400018: fingertipsLeft
+    400020: fingertipsRight
+    400022: footLeft
+    400024: footRight
+    400026: footrollLeft
+    400028: footrollRight
+    400030: foottumblecontrolLeft
+    400032: foottumblecontrolRight
+    400034: foottumbleinsideLeft
+    400036: foottumbleinsideRight
+    400038: foottumbleoutsideLeft
+    400040: foottumbleoutsideRight
+    400042: head
+    400044: heelLeft
+    400046: heelRight
+    400048: hips
+    400050: IKarmLeft
+    400052: IKarmRight
+    400054: kneecontrolLeft
+    400056: kneecontrolRight
+    400058: legtargetLeft
+    400060: legtargetRight
+    400062: lowerarmLeft
+    400064: lowerarmRight
+    400066: lowerback
+    400068: lowerribcage
+    400070: neck
+    400072: neckcontrolbone
+    400074: palmLeft
+    400076: palmRight
+    400078: rotatetoesLeft
+    400080: rotatetoesRight
+    400082: shinLeft
+    400084: shinRight
+    400086: shoulderLeft
+    400088: shoulderRight
+    400090: tarsalLeft
+    400092: tarsalRight
+    400094: tarsaltargetLeft
+    400096: tarsaltargetRight
+    400098: thighLeft
+    400100: thighRight
+    400102: thumbbaseLeft
+    400104: thumbbaseRight
+    400106: thumbIKLeft
+    400108: thumbIKRight
+    400110: thumbLeft
+    400112: thumbnullLeft
+    400114: thumbnullRight
+    400116: thumbRight
+    400118: tiptoeLeft
+    400120: tiptoeRight
+    400122: toesLeft
+    400124: toesRight
+    400126: toestargetLeft
+    400128: toestargetRight
+    400130: upperarmLeft
+    400132: upperarmRight
+    400134: upperribcage
+    400136: femalenpc1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cube
+    4300002: femalenpc1
+    7400000: Default Take
+    7400002: femalenpc1idle
+    7400004: femalenpc1idle2
+    7400006: femalenpc1idle3
+    7400008: femalenpc1idle4
+    7400010: foot_roll
+    7400012: footroll
+    7400014: tumblerLeft
+    7400016: tumblerRight
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+    13700002: femalenpc1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: femalenpc1idle
+      takeName: femalenpc1idle
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc1
+        weight: 1
+      - path: femalenpc1armature
+        weight: 1
+      - path: femalenpc1armature/footLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/footrollLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: femalenpc1armature/footRight
+        weight: 1
+      - path: femalenpc1armature/footRight/footrollRight
+        weight: 1
+      - path: femalenpc1armature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/kneecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc1idle2
+      takeName: femalenpc1idle2
+      firstFrame: -1
+      lastFrame: 299
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc1
+        weight: 1
+      - path: femalenpc1armature
+        weight: 1
+      - path: femalenpc1armature/footLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/footrollLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: femalenpc1armature/footRight
+        weight: 1
+      - path: femalenpc1armature/footRight/footrollRight
+        weight: 1
+      - path: femalenpc1armature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/kneecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc1idle3
+      takeName: femalenpc1idle3
+      firstFrame: -1
+      lastFrame: 499
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc1
+        weight: 1
+      - path: femalenpc1armature
+        weight: 1
+      - path: femalenpc1armature/footLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/footrollLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: femalenpc1armature/footRight
+        weight: 1
+      - path: femalenpc1armature/footRight/footrollRight
+        weight: 1
+      - path: femalenpc1armature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/kneecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc1idle4
+      takeName: femalenpc1idle4
+      firstFrame: -1
+      lastFrame: 199
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc1
+        weight: 1
+      - path: femalenpc1armature
+        weight: 1
+      - path: femalenpc1armature/footLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/footrollLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/foottumblecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/kneecontrolLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/rotatetoesLeft/toestargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft
+        weight: 1
+      - path: femalenpc1armature/footLeft/tiptoeLeft/foottumbleoutsideLeft/foottumbleinsideLeft/heelLeft/tarsaltargetLeft/legtargetLeft
+        weight: 1
+      - path: femalenpc1armature/footRight
+        weight: 1
+      - path: femalenpc1armature/footRight/footrollRight
+        weight: 1
+      - path: femalenpc1armature/footRight/foottumblecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/kneecontrolRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/rotatetoesRight/toestargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight
+        weight: 1
+      - path: femalenpc1armature/footRight/tiptoeRight/foottumbleoutsideRight/foottumbleinsideRight/heelRight/tarsaltargetRight/legtargetRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/neck/head
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerbaseLeft/fingertipsLeft/fingernullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/fingerIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbbaseLeft/thumbLeft/thumbnullLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderLeft/upperarmLeft/lowerarmLeft/IKarmLeft/palmLeft/thumbIKLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerbaseRight/fingertipsRight/fingernullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/fingerIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbbaseRight/thumbRight/thumbnullRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/lowerback/lowerribcage/upperribcage/shoulderRight/upperarmRight/lowerarmRight/IKarmRight/palmRight/thumbIKRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighLeft/shinLeft/tarsalLeft/toesLeft
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight
+        weight: 1
+      - path: femalenpc1armature/neckcontrolbone/hips/thighRight/shinRight/tarsalRight/toesRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

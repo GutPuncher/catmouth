@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: c099ca0c782ec4834a9e0523c09d6d08
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ahogebase
+    100002: ahogetip
+    100004: femalenpc5
+    100006: //RootNode
+    100008: fingerbaseLeft
+    100010: fingerbaseRight
+    100012: fingertipsLeft
+    100014: fingertipsRight
+    100016: head
+    100018: hips
+    100020: lowerarmLeft
+    100022: lowerarmRight
+    100024: lowerback
+    100026: lowerribcage
+    100028: neckcontrolbone
+    100030: palmLeft
+    100032: palmRight
+    100034: shinLeft
+    100036: shinRight
+    100038: shoulderLeft
+    100040: shoulderRight
+    100042: simplerrig
+    100044: thighLeft
+    100046: thighRight
+    100048: thumbbaseLeft
+    100050: thumbbaseRight
+    100052: thumbLeft
+    100054: thumbRight
+    100056: toeLeft
+    100058: toeRight
+    100060: upperarmLeft
+    100062: upperarmRight
+    400000: ahogebase
+    400002: ahogetip
+    400004: //RootNode
+    400006: femalenpc5
+    400008: fingerbaseLeft
+    400010: fingerbaseRight
+    400012: fingertipsLeft
+    400014: fingertipsRight
+    400016: head
+    400018: hips
+    400020: lowerarmLeft
+    400022: lowerarmRight
+    400024: lowerback
+    400026: lowerribcage
+    400028: neckcontrolbone
+    400030: palmLeft
+    400032: palmRight
+    400034: shinLeft
+    400036: shinRight
+    400038: shoulderLeft
+    400040: shoulderRight
+    400042: simplerrig
+    400044: thighLeft
+    400046: thighRight
+    400048: thumbbaseLeft
+    400050: thumbbaseRight
+    400052: thumbLeft
+    400054: thumbRight
+    400056: toeLeft
+    400058: toeRight
+    400060: upperarmLeft
+    400062: upperarmRight
+    4300000: femalenpc5
+    7400000: Default Take
+    7400002: femalenpc5idle1
+    7400004: femalenpc5idle2
+    7400006: femalenpc5idle3
+    7400008: femalenpc5idle4
+    7400010: femalenpc5idletalk1
+    7400012: femalenpc5idletalkend
+    7400014: femalenpc5idletalkstart
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: femalenpc5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: femalenpc5idle1
+      takeName: femalenpc5idle1
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc5idle2
+      takeName: femalenpc5idle2
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc5idle3
+      takeName: femalenpc5idle3
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc5idle4
+      takeName: femalenpc5idle4
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc5idletalk1
+      takeName: femalenpc5idletalk1
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc5idletalkend
+      takeName: femalenpc5idletalkend
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc5idletalkstart
+      takeName: femalenpc5idletalkstart
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc5
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/head/ahogebase/ahogetip
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

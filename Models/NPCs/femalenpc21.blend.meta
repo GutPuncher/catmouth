@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: a69ab34b45495b44e84af03288fa068a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: femalenpc21
+    100004: fingerbaseLeft
+    100006: fingerbaseRight
+    100008: fingertipsLeft
+    100010: fingertipsRight
+    100012: head
+    100014: hips
+    100016: lowerarmLeft
+    100018: lowerarmRight
+    100020: lowerback
+    100022: lowerribcage
+    100024: neckcontrolbone
+    100026: palmLeft
+    100028: palmRight
+    100030: shinLeft
+    100032: shinRight
+    100034: shoulderLeft
+    100036: shoulderRight
+    100038: simplerrig
+    100040: thighLeft
+    100042: thighRight
+    100044: thumbbaseLeft
+    100046: thumbbaseRight
+    100048: thumbLeft
+    100050: thumbRight
+    100052: toeLeft
+    100054: toeRight
+    100056: upperarmLeft
+    100058: upperarmRight
+    400000: //RootNode
+    400002: femalenpc21
+    400004: fingerbaseLeft
+    400006: fingerbaseRight
+    400008: fingertipsLeft
+    400010: fingertipsRight
+    400012: head
+    400014: hips
+    400016: lowerarmLeft
+    400018: lowerarmRight
+    400020: lowerback
+    400022: lowerribcage
+    400024: neckcontrolbone
+    400026: palmLeft
+    400028: palmRight
+    400030: shinLeft
+    400032: shinRight
+    400034: shoulderLeft
+    400036: shoulderRight
+    400038: simplerrig
+    400040: thighLeft
+    400042: thighRight
+    400044: thumbbaseLeft
+    400046: thumbbaseRight
+    400048: thumbLeft
+    400050: thumbRight
+    400052: toeLeft
+    400054: toeRight
+    400056: upperarmLeft
+    400058: upperarmRight
+    4300000: femalenpc21
+    7400000: Default Take
+    7400002: femalenpc21idle1
+    7400004: femalenpc21idle2
+    7400006: femalenpc21idle3
+    7400008: femalenpc21idle4
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: femalenpc21
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: femalenpc21idle1
+      takeName: femalenpc21idle1
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc21
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc21idle2
+      takeName: femalenpc21idle2
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc21
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc21idle3
+      takeName: femalenpc21idle3
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc21
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: femalenpc21idle4
+      takeName: femalenpc21idle4
+      firstFrame: -1
+      lastFrame: 239
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: femalenpc21
+        weight: 1
+      - path: simplerrig
+        weight: 1
+      - path: simplerrig/neckcontrolbone
+        weight: 1
+      - path: simplerrig/neckcontrolbone/head
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/lowerback/lowerribcage
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighLeft/shinLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/hips/thighRight/shinRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderLeft/upperarmLeft/lowerarmLeft
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight
+        weight: 1
+      - path: simplerrig/neckcontrolbone/shoulderRight/upperarmRight/lowerarmRight
+        weight: 1
+      - path: simplerrig/palmLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/fingerbaseLeft/fingertipsLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft
+        weight: 1
+      - path: simplerrig/palmLeft/thumbbaseLeft/thumbLeft
+        weight: 1
+      - path: simplerrig/palmRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/fingerbaseRight/fingertipsRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight
+        weight: 1
+      - path: simplerrig/palmRight/thumbbaseRight/thumbRight
+        weight: 1
+      - path: simplerrig/toeLeft
+        weight: 1
+      - path: simplerrig/toeRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
